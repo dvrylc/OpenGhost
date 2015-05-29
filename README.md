@@ -6,7 +6,7 @@ Currently deploys **Ghost 0.6.4** on:
 - **Node v0.10**
 - **MySQL 5.5** or **PostgreSQL 9.2**
 
-As new versions become available, OpenGhost will be updated to reflect them. 
+As new versions of Ghost become available, OpenGhost will be updated to reflect them.
 
 ## Directions for use
 [Click here](https://hub.openshift.com/quickstarts/deploy/155-openghost) to deploy, this setup requires 1 gear.
