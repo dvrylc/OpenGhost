@@ -1,0 +1,20 @@
+{
+  "name": "OpenGhost",
+  "version": "0.6.4",
+  "description": "One-click deployment of Ghost on OpenShift",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dvrylc/OpenGhost.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "engines": {
+    "node": "~0.10.0"
+  },
+  "engineStrict": true,
+  "dependencies": {
+    "ghost": "0.6.4"
+  }
+}
