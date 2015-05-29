@@ -9,7 +9,7 @@ Currently deploys **Ghost 0.6.4** on:
 As new versions become available, OpenGhost will be updated to reflect them. 
 
 ## Directions for use
-[Click here](https://hub.openshift.com/quickstarts/deploy/155-openghost) to deploy. 
+[Click here](https://hub.openshift.com/quickstarts/deploy/155-openghost) to deploy, this setup requires 1 gear.
 
 Once the application is created, Ghost's admin panel can be accessed at **http://\<app-domain\>.rhcloud.com/ghost**. 
 
