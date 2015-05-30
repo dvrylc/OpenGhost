@@ -2,12 +2,12 @@
 
 echo "Creating persistent Ghost data directory"
 if [ ! -d "$OPENSHIFT_DATA_DIR/content/data" ]; then
-	mkdir -p $OPENSHIFT_DATA_DIR/content/data
+  mkdir -p $OPENSHIFT_DATA_DIR/content/data
 fi
 
 echo "Creating persistent Ghost images directory"
 if [ ! -d "$OPENSHIFT_DATA_DIR/content/images" ]; then
-	mkdir -p $OPENSHIFT_DATA_DIR/content/images
+  mkdir -p $OPENSHIFT_DATA_DIR/content/images
 fi
 
 echo "Symlinking data directory"
